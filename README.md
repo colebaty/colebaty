@@ -33,7 +33,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/cole-baty/)!
    Communications](http://github.com/colebaty/ece355): socket programming in C,
    Python; shell scripting
 *  [Forms](http://github.com/colebaty/forms): one-off project using Python to
-   automate filling out PDF forms for turn-in of 100+ items to a U.S. Navy
+   automate filling out PDF forms for turn-in of ~50 items to a U.S. Navy
    property office
 
 
