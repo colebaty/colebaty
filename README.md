@@ -1,7 +1,10 @@
 # Cole Baty's Github Repo
 
-Hi, I'm Cole.  I'm a Cyber Operations major at Old Dominion University in
-Norfolk, Virginia (class of '24). This GitHub repo is my portfolio, showcasing
+Hi, I'm Cole.  I'm a Cybersecurity professional, getting a start in the industry
+after a mid-life career pivot.
+
+I graduated from Old Dominion University in Norfolk, Virginia in May of 2024 with
+a Bachelor of Science in Cyber Operations. This GitHub repo is my portfolio, showcasing
 the projects I've worked on since starting my degree in 2021.
 
 Hopefully, if you're looking at this page, it's because I've applied for a job
